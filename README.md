@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Famekidjoe
 - 👀 I’m interested in ... Learning and Teaching anything related to Programming and Designing. 
-- 🌱 I’m currently learning ... Web Design, Android programming and Graphic design
+- 🌱 I’m currently learning ... Web Design, Data analytics and Graphic design
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... @Famekidjoe on all social media platforms
 
